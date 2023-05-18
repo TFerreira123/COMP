@@ -1,2 +1,2 @@
 # COMP
-Projeto compiladores 20222
+Projeto compiladores 2022/23
